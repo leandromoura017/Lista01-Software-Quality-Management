@@ -1,4 +1,4 @@
-# LISTA 01- INTRODUÇÃO AO JAVASCRIPT
+# LISTA 01 DA MATÉRIA DE GESTÃO DE QUALIDADE DE SOFTWARE
 
 ## 1. Somar Elementos de um Array
  Escreva uma função somarArray(arr) que receba um array de números e
